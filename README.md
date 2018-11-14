@@ -1,4 +1,4 @@
-# Sentinel-5P
+# Sentinel-5P hackaton version
 Sentinel5P_Python
 
 Blog associated with notebook
